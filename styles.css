@@ -107,7 +107,7 @@ h1, h2 { font-size:20px; font-family:'Playfair Display'; text-transform:lowercas
 .sidebar { position:absolute; top:-10px; left:-10px; width:450px; height:550px; background:#ffffff; border:1px solid #e6e6e6; box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.03); 
 }
 
-.sidebar-img { position:absolute; top:0px; left:0px; background:#f9ca8a; height:550px; overflow:hidden; border-right:1px solid #e6e6e6; }
+.sidebar-img { position:absolute; top:0px; left:0px; background:#FFFFFF; height:550px; overflow:hidden; border-right:1px solid #e6e6e6; }
 
 
 .yohane { 
@@ -302,7 +302,7 @@ header {
    text-indent: -999999px;
    z-index: 2;
    padding: 18px 18px;
-   background-image: url(https://u.cubeupload.com/byulharang/playbutton.png);
+   background-image: url(https://i.ibb.co/p01bNkJ/playbutton.png);
    background-repeat: no-repeat;
    background-position: center;
    background-size: 16px;
@@ -350,9 +350,9 @@ header {
    
      }
  .play {
-   background-image: url(https://u.cubeupload.com/byulharang/playbutton.png);
+   background-image: url(https://i.ibb.co/p01bNkJ/playbutton.png);
      }
  .pause {
-   background-image: url(https://u.cubeupload.com/byulharang/pause.png)!important;
+   background-image: url(https://i.ibb.co/6YXxV6b/pause.png)!important;
      }
  
